@@ -2,4 +2,4 @@
 
 This is the first trial Repo.
 
-Author - Amit Singh Tomar
+Author - Amit Singh Tomar (ML/AI Engg)
